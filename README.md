@@ -1,5 +1,4 @@
 # DesafioControleFluxo-DIO
-<<<<<<< HEAD
 Esse é um desafio do **bootcamp Backend Java** da DIO. <br>
 O objetivo geral deste desafio é criar um código **.java** que use comandados para controlar o fluxo do programa, por exemplo, as estruturas **if**, **for** e **exceptions**. <br>
 
